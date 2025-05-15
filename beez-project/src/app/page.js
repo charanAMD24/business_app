@@ -22,7 +22,7 @@ const Navbar = () => {
                 <div className="absolute w-3 h-8 bg-blue-500 rounded-sm left-3"></div>
                 <div className="absolute w-3 h-8 bg-blue-400 rounded-sm left-6"></div>
               </div>
-              <span className="text-black font-bold text-xl ml-2"> *Business </span>
+              <span className="text-black font-bold text-xl ml-2"> *Busin</span>
             </div>
           </Link>
         </div>
